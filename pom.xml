@@ -36,7 +36,6 @@
 
         <slf4j.version>1.7.7</slf4j.version>
 
-        <findbugs.onlyAnalyze>org.mybatis.caches.rediscala.*</findbugs.onlyAnalyze>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
